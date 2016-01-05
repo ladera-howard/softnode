@@ -1,8 +1,10 @@
 ========================================================================
-    CONSOLE APPLICATION : softnode Project Overview
+##    CONSOLE APPLICATION : softnode Project Overview
 ========================================================================
 
-AppWizard has created this softnode application for you.
+This application demonstrate how to create a software device node under Windows device manager.
+The device node created by this app does not have a driver associated with it. User can write
+a driver and install it to the device.
 
 This file contains a summary of what you will find in each of the files that
 make up your softnode application.
